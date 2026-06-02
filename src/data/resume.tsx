@@ -11,7 +11,7 @@ export const DATA = {
     "Self-taught developer obsessed with cyber aesthetics, retro UI, and creative coding.Shipping projects while learning in public.",
   summary:
     "A self-taught developer from Ranchi, India passionate about technology and design.I enjoy building projects, experimenting with new ideas, and learning through creation.Most of my time is spent coding, exploring Linux, and improving my development skills.I like clean interfaces, creative web experiences, and turning concepts into reality.Currently learning, building, and growing one project at a time.",
-  avatarUrl: "/resume/me.jpg",
+  avatarUrl: "/resume/MEE.webp",
   githubUsername: "ANSH2012",
   skills: [
     "React",
